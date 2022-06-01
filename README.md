@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on acquiring my lost skills.
 - 🌱 I’m currently learning HTML, CSS, Javascript and more that have to do with Web Development.
-- 👯 I’m looking to collaborate on indie projects.
+- 👯 I’m looking to collaborate on indie and professional projects.
 - 📫 How to reach me? You can just email me at k0rel@proton.me
-- ⚡ Fun fact: 70's, 80's, 90's - D&D and reading/writting/creating stories lover.
+- ⚡ Fun fact: 70's - 90's - D&D - reading/writting/creating stories and animal lover.
 
 <!--
 **GusHatz/GusHatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
