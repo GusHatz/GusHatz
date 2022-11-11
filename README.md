@@ -3,10 +3,11 @@
 
 
 - 🔭 I’m currently working on acquiring my lost skills.
-- 🌱 I’m currently learning HTML, CSS, Javascript and more that have to do with Web Development.
+- 🌱 I’m currently attending a college of computer science(BSc - University of Derrby).
 - 👯 I’m looking to collaborate on indie and professional projects.
-- 📫 How to reach me? You can just email me at k0rel@proton.me
-- ⚡ Fun fact: 70's - 90's - D&D - reading/writting/creating stories and animal lover.
+- 📫 How to reach me? You can just email me at k0rel@proton.me or on Discord - Veils1de/Korel#2412.
+- 😄 Pronouns: Korel Gus.
+- ⚡ Fun fact: 70's - 90's Music. D&D fun and player. Reading/writting/creating stories and animal lover.
 
 <!--
 **GusHatz/GusHatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
