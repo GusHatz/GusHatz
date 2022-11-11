@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on acquiring my lost skills.
-- 🌱 I’m currently attending a college of computer science(BSc - University of Derrby).
+- 🌱 I’m currently attending a college of computer science(BSc - University of Derby).
 - 👯 I’m looking to collaborate on indie and professional projects.
 - 📫 How to reach me? You can just email me at k0rel@proton.me or messege me on Discord at Veils1de/Korel#2412.
 - 😄 Pronouns: Korel Gus.
